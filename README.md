@@ -32,3 +32,10 @@ Python 3
 numpy  
 matplotlib  
 scipy
+
+Citation
+
+If you use this experiment, please cite:
+
+Tavella, Danilo (2026). Atmospheric Retrieval and Architectural Closure
+in Exoplanet Spectroscopy. Zenodo.
